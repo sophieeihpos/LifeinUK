@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Life in the UK</string>
+    <string name="text_introduction"> The five questions below have been selected from \'The Life in the United Kindom Test\' for individuals seeking for naturalisation as a British citizen. </string>
+    <string name="text_question_2">2. What is the capital of England ?</string>
+    <string name="text_question_1">1. Which TWO are British Overseas territories ?</string>
+    <string name="text_option_1a">a. The Falkland Islands</string>
+    <string name="text_option_1b">b. Ireland</string>
+    <string name="text_option_1c">c. St Helena</string>
+    <string name="text_option_1d">d. Hawaii</string>
+    <string name="text_question_3">3. Which of these is a famous classical music event in the UK ?</string>
+    <string name="text_option_3a">a. Creamfields</string>
+    <string name="text_option_3b">b. The Proms</string>
+    <string name="text_option_3c">c. T in the Park</string>
+    <string name="text_option_3d">d. Glastonbury Festival</string>
+    <string name="text_question_4">4. Which TWO British film actors have recently won Oscars ?</string>
+    <string name="text_option_4a">a. Tilda Swinton</string>
+    <string name="text_option_4b">b. Colin Firth</string>
+    <string name="text_option_4c">c. Leonardo DiCaprio</string>
+    <string name="text_option_4d">d. Jacky Stewart</string>
+    <string name="text_question_5">5. How many years did Charles I raise money without Parliament\'s approval ?</string>
+    <string name="text_hint">Please type in your answer here.</string>
+    <string name="button_submit">Submit Answer</string>
+</resources>
